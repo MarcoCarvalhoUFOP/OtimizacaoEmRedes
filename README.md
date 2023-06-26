@@ -25,23 +25,43 @@ marco.opt@gmail.com
 Sumário do conteúdo dos arquivos
 
 Introdução à Otimização, Problema Computacional, Modelagem de Problemas, Modelos de Programação Linear
+
 Modelagem de Problemas Clássicos e Diferentes Problemas de PL
+
 Programação Linear Inteira, Resolvedores, Exemplos de Resolução
+
 Teoria dos Grafos: introdução,exemplos, terminologia, representação computacional
+
 Subgrafos, conectividade e caminhos, alcançabilidade, conexidade
+
 Busca em grafos - BFS, DFS
+
 Taxonomia dos Problemas de Fluxo Em Redes, Problemas relacionados a Caminhos, Problema de Caminho Mínimo, Formulação, Variantes
+
 Algoritmo de Dijkstra
+
 Algoritmo de Bellman-Ford
+
 Algoritmo de Floyd-Warshall
+
 Algoritmo de Johnson
+
 Algoritmo A*
+
 Redes de Fluxo, Problemas de Fluxo, Formulação
+
 Fluxo Viável, O Problema da Circulação Viável em Redes
+
 Fluxo Máximo
+
 Algoritmo de Ford-Fulkerson
+
 Algoritmo de Dinitz
+
 Algoritmo MPM
+
 Fluxo de Custo Mínimo, Algoritmo de Cancelamento de Ciclos
+
 Algoritmo de Caminhos Mais Curtos Sucessivos
+
 Modelos especiais em redes de fluxo
